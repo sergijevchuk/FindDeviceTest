@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical"
+	android:gravity="top|center"
+	android:background="#000000">
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="@string/lockTitle"
+		android:textAppearance="?android:attr/textAppearanceSmall"
+		android:id="@+id/lockviewTextView1"
+		android:textColor="#FFFFFF"/>
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Text"
+		android:id="@+id/lockviewTextView2"
+		android:textColor="#FFFFFF"/>
+
+	<Button
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="@string/unlockButton"
+		android:id="@+id/lockviewButton1"
+		android:textColor="#FFFFFF"/>
+
+</LinearLayout>
+

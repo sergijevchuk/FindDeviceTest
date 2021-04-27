@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="lockTitle">Ваше устройство утереное! :(</string>
+	<string name="unlockButton">Активировать устройстао!</string>
+	<string name="warrning">Внимания!</string>
+	<string name="formatText">Ваше устройство будет сброшено к завотским настройкам через %s секунд! Если у вас есть важная информация сохраните ёё!</string>
+</resources>
